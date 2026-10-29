@@ -1,0 +1,6 @@
+{
+  "name": "AetherMeet",
+  "description": "Next-Generation Holographic Video Collaboration Platform powered by WebRTC, Socket.IO, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
